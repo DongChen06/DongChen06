@@ -57,10 +57,10 @@ I am ***typoverflow***, and I am
 
 **My GitHub stat looks like ...**
 <p align="center">
-<img src=https://visitor-badge.glitch.me/badge?page_id=typoverflow.typoverflow.readme width=100>
+<img src=https://visitor-badge.glitch.me/badge?page_id=typoverflow.DongChen06.readme width=100>
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=typoverflow&show_icons=true&count_private=true&hide=prs&theme=graywhite">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DongChen06&show_icons=true&count_private=true&hide=prs&theme=graywhite">
 </p>
 
 
