@@ -5,10 +5,8 @@ I am ***DongChen06***, and I am
 +  A research rookie in Reinforcement Learning, supervised by [Prof. Li](https://www.egr.msu.edu/rival/)
 
 **My GitHub stat looks like ...**
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DongChen06&show_icons=true&count_private=true&hide=prs&theme=graywhite">
-</p>
 
+[![Dong's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongChen06)](https://github.com/DongChen06/github-readme-stats)
 
 </td>
 </tr>
