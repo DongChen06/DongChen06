@@ -1,7 +1,8 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, there! 
 
 I am ***DongChen06***, and I am
-+ A senior PhD student @ [ECE, MSU](https://ece.msu.edu/)
++ A Postdoc @ [UVa. CS]
++ A PhD @ [ECE, MSU](https://ece.msu.edu/)
 +  A research rookie in Reinforcement Learning, supervised by [Prof. Li](https://www.egr.msu.edu/rival/)
 
 **My GitHub stat looks like ...**
