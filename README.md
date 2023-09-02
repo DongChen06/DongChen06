@@ -2,7 +2,7 @@
 
 I am ***DongChen06***, and I am
 + A Postdoc @ [UVa. CS](https://engineering.virginia.edu/departments/computer-science)
-+ A PhD @ [ECE, MSU](https://ece.msu.edu/)
++ A PhD @ [MSU, ECE](https://ece.msu.edu/)
 +  A research rookie in reinforcement learning, multi-agent systems, and smart agriculture
 
 **My GitHub stat looks like ...**
