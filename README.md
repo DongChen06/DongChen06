@@ -3,7 +3,8 @@
 I am a tenure-track assistant professor at Mississippi State University, and I was
 + A Postdoc @ [UVa. CS](https://engineering.virginia.edu/departments/computer-science)
 + A PhD @ [MSU, ECE](https://ece.msu.edu/)
-+  A research rookie in reinforcement learning, multi-agent systems, robotics, computer vision, and smart agriculture
+
+I am also a research rookie in reinforcement learning, multi-agent systems, robotics, computer vision, and smart agriculture
 
 **My GitHub stat looks like ...**
 
