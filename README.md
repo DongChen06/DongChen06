@@ -1,9 +1,9 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, there! 
 
-I am ***DongChen06***, and I am
+I am a tenure-track assistant professor at Mississippi State University, and I was
 + A Postdoc @ [UVa. CS](https://engineering.virginia.edu/departments/computer-science)
 + A PhD @ [MSU, ECE](https://ece.msu.edu/)
-+  A research rookie in reinforcement learning, multi-agent systems, and smart agriculture
++  A research rookie in reinforcement learning, multi-agent systems, robotics, computer vision, and smart agriculture
 
 **My GitHub stat looks like ...**
 
